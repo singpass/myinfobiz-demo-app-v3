@@ -66,8 +66,8 @@ You should be able to access the sample application via the following URL or cli
 http://localhost:3001
 ```
 
-![Demo Screenshot](./.images/main.png)
-![Demo Screenshot](./.images/form.png)
+![Demo Screenshot](./.images/screenshot_main.png)
+![Demo Screenshot](./.images/screenshot_form.png)
 
 
 ---
