@@ -1,6 +1,6 @@
 <p align="center">
 <a href="https://www.ndi-api.gov.sg/library/myinfo/introduction">
-  <img src="https://public.cloud.myinfo.gov.sg/images/logo/myinfo-rebrand-logo.svg">
+  <img src="https://public.cloud.myinfo.gov.sg/images/logo/myinfobiz-rebrand-logo.svg">
   </a>
 </p>
 
